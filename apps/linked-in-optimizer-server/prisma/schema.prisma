@@ -1,0 +1,60 @@
+datasource db {
+  provider = "mongodb"
+  url      = env("DB_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  createdAt            DateTime              @default(now())
+  email                String?               @unique
+  firstName            String?
+  id                   String                @id @default(auto()) @map("_id") @db.ObjectId
+  lastName             String?
+  password             String
+  profileOptimizations ProfileOptimization[]
+  roles                Json
+  updatedAt            DateTime              @updatedAt
+  username             String                @unique
+}
+
+model ProfileOptimization {
+  appUser              AppUser? @relation(fields: [appUserId], references: [id])
+  appUserId            String?  @db.ObjectId
+  createdAt            DateTime @default(now())
+  id                   String   @id @default(auto()) @map("_id") @db.ObjectId
+  optimizedProfileData Json?
+  profileData          Json?
+  updatedAt            DateTime @updatedAt
+  user                 User?    @relation(fields: [userId], references: [id])
+  userId               String?  @db.ObjectId
+}
+
+model Session {
+  appUser   AppUser?  @relation(fields: [appUserId], references: [id])
+  appUserId String?   @db.ObjectId
+  createdAt DateTime  @default(now())
+  expiresAt DateTime?
+  id        String    @id @default(auto()) @map("_id") @db.ObjectId
+  token     String?
+  updatedAt DateTime  @updatedAt
+}
+
+model AppUser {
+  authenticationId     String?
+  createdAt            DateTime                  @default(now())
+  email                String?
+  id                   String                    @id @default(auto()) @map("_id") @db.ObjectId
+  loginProvider        EnumAppUserLoginProvider?
+  name                 String?
+  profileOptimizations ProfileOptimization[]
+  profilePicture       Json?
+  sessions             Session[]
+  updatedAt            DateTime                  @updatedAt
+}
+
+enum EnumAppUserLoginProvider {
+  Option1
+}
