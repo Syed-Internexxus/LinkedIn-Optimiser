@@ -1,0 +1,269 @@
+{
+  "https://www.linkedin.com/in/shriyavenkataraman": [
+    {
+      "id": "797867223",
+      "profileId": "ACoAAC-OfNcBxVHmyEBqob2WIEZpzePahXwaJD8",
+      "firstName": "Shriya ",
+      "lastName": "Venkataraman",
+      "occupation": "Data Science & Statistics at the University of Texas at Austin",
+      "publicIdentifier": "shriyavenkataraman",
+      "trackingId": "+fUzb3mkSX6w7QsWnZVrOQ==",
+      "pictureUrl": "https://media.licdn.com/dms/image/D5603AQGgFR5QKKOikw/profile-displayphoto-shrink_100_100/0/1699469764262?e=1727308800&v=beta&t=7DupQw_K_tqBauErNiee5BBYbHMj2k0V5_1XS9KHbyM",
+      "coverImageUrl": "https://media.licdn.com/dms/image/D5616AQEwa6Fgcb8-Sw/profile-displaybackgroundimage-shrink_200_800/0/1704950626519?e=1727308800&v=beta&t=zzvPHoyInVl5u5VaBUD2nr-seQ2uzFDXgzfKjTm3pzE",
+      "countryCode": "us",
+      "geoUrn": "urn:li:fs_geo:104472865",
+      "positions": [
+        {
+          "title": "Product Development & AI Features",
+          "description": "- Spearheaded the creation, analysis, and integration of machine learning models and API technologies (platforms like OpenAI's GPT4o, Google Cloud, and Azure) for Vlogmi's Creator Studio feature, ensuring its capability to deliver real-time personalized audience data to content creators and marketers.\n\n- Integrated an Instagram Competitor Analysis Feature for Vlogmi by leveraging machine learning and OPEN AI API integrations to generate content summaries across users and analyze competitor engagement on Instagram within the same content category. This feature helps users understand competitor strategies and optimize their own content for better reach and engagement.\n\n- Collaborated closely with the team to ideate, implement features, and create user experience flow charts for the Vlogmi app, aimed at enhancing engagement, usability, insights, and revenue generation.\n--\nVlogmi is a multi-medium tool for social media, specifically helping creators, brands and marketers get more views, engagement and revenue. Vlogmi's long-term vision drives the next generation of content creators to express their creativity through authenticity - to create the future of a healthier, more positive social media.",
+          "locationName": "Austin, Texas, United States",
+          "timePeriod": {
+            "startDate": {
+              "month": 4,
+              "year": 2024
+            }
+          },
+          "company": {
+            "employeeCountRange": {
+              "start": 2,
+              "end": 10
+            },
+            "industries": [
+              "Information Technology and Services"
+            ],
+            "objectUrn": "urn:li:company:14762672",
+            "entityUrn": "urn:li:fs_miniCompany:14762672",
+            "name": "Vlogmi AI",
+            "showcase": false,
+            "active": true,
+            "logo": "https://media.licdn.com/dms/image/D560BAQHp85HBMvPiLg/company-logo_200_200/0/1709077663247/vlogmi_logo?e=1730332800&v=beta&t=0ozd_3J-_HFRBTa8mL_vQnwWsr_FjRoGhIQcFafdcQ8",
+            "universalName": "vlogmi",
+            "dashCompanyUrn": "urn:li:fsd_company:14762672",
+            "trackingId": "ZT5JUfEtTQm39qWePx2G0w=="
+          },
+          "companyName": "Vlogmi AI"
+        },
+        {
+          "title": "Market Strategy (GTM) Representative",
+          "timePeriod": {
+            "startDate": {
+              "month": 6,
+              "year": 2024
+            }
+          },
+          "company": {
+            "employeeCountRange": {
+              "start": 11,
+              "end": 50
+            },
+            "industries": [
+              "Computer Software"
+            ],
+            "objectUrn": "urn:li:company:80919231",
+            "entityUrn": "urn:li:fs_miniCompany:80919231",
+            "name": "Claim",
+            "showcase": false,
+            "active": true,
+            "logo": "https://media.licdn.com/dms/image/D4E0BAQGqNogdPqy2eA/company-logo_200_200/0/1719257591569/claim_co_logo?e=1730332800&v=beta&t=2KPWgWT-JrULvQf0frT5oV5lg-6CApAfpXnSyGnJIoc",
+            "universalName": "claim-co",
+            "dashCompanyUrn": "urn:li:fsd_company:80919231",
+            "trackingId": "VUbq1tElSrmbCvXvePGqaQ=="
+          },
+          "companyName": "Claim"
+        },
+        {
+          "title": "AI Software Development & Marketing",
+          "description": "- Built Internexxus's AI Linkedin-To-Resume Feature using ChatOpenAI, Langchain and Open AI's LLMs, and a  RAG system for resume template information. \n- Built Internexxus's job postings system using REST API services for data scraping, GPT 4o for data reconstruction and PostgreSQL for data storage and management. \n- Used React JS frontend frameworks, specifically Tailwind and Typescript to designed Internexxus's \"For Universities\" website landing page UI Design.\n- Orchestrated onboarding and outreach processes such as user integration, workflow, quarterly KPIs, and pitch decks for target consumer groups",
+          "timePeriod": {
+            "startDate": {
+              "month": 6,
+              "year": 2024
+            }
+          },
+          "company": {
+            "employeeCountRange": {
+              "start": 2,
+              "end": 10
+            },
+            "industries": [
+              "Computer Software"
+            ],
+            "objectUrn": "urn:li:company:100038250",
+            "entityUrn": "urn:li:fs_miniCompany:100038250",
+            "name": "Internexxus",
+            "showcase": false,
+            "active": true,
+            "logo": "https://media.licdn.com/dms/image/D4D0BAQFWWd257CMNaw/company-logo_200_200/0/1709153871386/internexxusofficial_logo?e=1730332800&v=beta&t=TWMLrdmwzMMGyUvT0vJf8eH7rANzunKCIXE1xa-6BCU",
+            "universalName": "internexxusofficial",
+            "dashCompanyUrn": "urn:li:fsd_company:100038250",
+            "trackingId": "q1BObEfTQPOXIKjdX8cd7w=="
+          },
+          "companyName": "Internexxus"
+        },
+        {
+          "title": "Data Strategy & Outreach",
+          "description": "- Integrated prompt engineering tools with Open AI's GPT 4.0 API to enhance and build ShoMe's Takeaways feature, and reranked search engine data for tactical startup and fundraising questions. \n- Orchestrated comprehensive roadmaps for user integration along with intuitive UI/UX features, ensuring seamless onboarding while maximizing user satisfaction and retention.",
+          "timePeriod": {
+            "startDate": {
+              "month": 5,
+              "year": 2024
+            }
+          },
+          "company": {
+            "employeeCountRange": {
+              "start": 2,
+              "end": 10
+            },
+            "industries": [
+              "Higher Education"
+            ],
+            "objectUrn": "urn:li:company:82369782",
+            "entityUrn": "urn:li:fs_miniCompany:82369782",
+            "name": "ShoMe",
+            "showcase": false,
+            "active": true,
+            "logo": "https://media.licdn.com/dms/image/D560BAQE52pOvQFXVVA/company-logo_200_200/0/1683266290770/shomehow_logo?e=1730332800&v=beta&t=hqRAY4d1nIwvlaMq7gspPz7h-pKt3Vq99aaAfyd1Dr8",
+            "universalName": "shomehow",
+            "dashCompanyUrn": "urn:li:fsd_company:82369782",
+            "trackingId": "DlKX9YMfTruotkKl26/qEg=="
+          },
+          "companyName": "ShoMe"
+        },
+        {
+          "title": "Instructor Assistant - Mobile App Development",
+          "description": "- Implemented and facilitated instruction of SwiftUI and Xcode curriculum to 200+ students (scholars) over the course of multiple two-week camps over academic summer term\n- Fostered community interactions between female and non-binary students to challenge the status quo and close the gender gap in Computer Science",
+          "timePeriod": {
+            "startDate": {
+              "month": 3,
+              "year": 2024
+            }
+          },
+          "company": {
+            "employeeCountRange": {
+              "start": 2,
+              "end": 10
+            },
+            "industries": [
+              "Civic & Social Organization"
+            ],
+            "objectUrn": "urn:li:company:28140084",
+            "entityUrn": "urn:li:fs_miniCompany:28140084",
+            "name": "Kode With Klossy",
+            "showcase": false,
+            "active": true,
+            "logo": "https://media.licdn.com/dms/image/C4E0BAQEXJRCrIzGB_A/company-logo_200_200/0/1676314797072/kodewithklossy_logo?e=1730332800&v=beta&t=DlJw2lSTIk6gSZQoNCWMacZNSQ7WyyLn82M0n1CcIAM",
+            "universalName": "kodewithklossy",
+            "dashCompanyUrn": "urn:li:fsd_company:28140084",
+            "trackingId": "3h6ZuYdbRmyHDD32U/u92w=="
+          },
+          "companyName": "Kode With Klossy"
+        }
+      ],
+      "educations": [
+        {
+          "degreeName": "Bachelor of Science - BS",
+          "fieldOfStudy": "Statistics and Data Science",
+          "schoolName": "The University of Texas at Austin",
+          "timePeriod": {
+            "endDate": {
+              "month": 5,
+              "year": 2027
+            }
+          }
+        },
+        {
+          "degreeName": "High School Diploma",
+          "schoolName": "Uplift Education-North Hills Preparatory High School"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "2021 AT&T Summer Learning Academy Extern",
+          "timePeriod": {
+            "startDate": {
+              "month": 8,
+              "year": 2021
+            }
+          },
+          "authority": "AT&T"
+        }
+      ],
+      "courses": [
+        {
+          "name": "Elements of Computers and Programming"
+        },
+        {
+          "name": "Elements of Software Design"
+        },
+        {
+          "name": "Intro to Data Science"
+        },
+        {
+          "name": "Sequence, Series, and Multivariable Calculus"
+        },
+        {
+          "name": "Statistical Thinking"
+        }
+      ],
+      "honors": [
+        {
+          "title": "2nd Place Winner | UTEXAS Energy Case Competition",
+          "description": "Crafted and delivered an analysis navigating complex trading and risk management scenarios as well as supply chain management analysis, and identified key areas for improvement and implementing solutions to drive operational excellence. \n\nPresented solutions an analyses with risks and mitigants in a 10 minute proposal in panel of judges\n\nSponsored by Shell, team achieved 2nd place among 30+ competing members.",
+          "issueDate": {
+            "month": 4,
+            "year": 2024
+          },
+          "issuer": "Shell, Austin Energy, Musket, Gunvor, Habitat Energy, and UTEXAS Energy"
+        },
+        {
+          "title": "3rd Place Winner | KMPG  x UT Austin Case Competition",
+          "description": "Crafted and delivered an analysis of fintech solutions that leveraged intelligent automation, AI, ML, SaaS, Robot Process Automation, and more to solve case prompt targeting lack of digitization in banks and overly manual processes.  \n\nPresented analyses with risks and mitigants, identified key areas for solution feasibility and practicality, and demonstrated the value of the solution to a panel of judges.\n\nSponsored by KPMG, team achieved 3rd place among 30+ competing members.",
+          "issueDate": {
+            "month": 4,
+            "year": 2024
+          },
+          "issuer": "KPMG, Asian Business Students Association, Texas Undergraduate Consulting"
+        },
+        {
+          "title": "3rd Place Winner | PWC x UT Austin Case Competition",
+          "description": "Crafted and delivered a comprehensive pitch deck encompassing market research, KPIs, and strategy, aimed at implementing ERGs to enhance productivity and employee retention for a company. \n\nSponsored by PWC, achieved 3rd place among 25 competing teams.",
+          "issueDate": {
+            "month": 11,
+            "year": 2023
+          },
+          "issuer": "PWC, Asian Business Students Association, Technology Consulting Group"
+        },
+        {
+          "title": "The Presidents Volunteer Service Award",
+          "issueDate": {
+            "month": 12,
+            "year": 2020
+          },
+          "issuer": "Americorps"
+        }
+      ],
+      "languages": [],
+      "skills": [
+        "Machine Learning",
+        "R (Programming Language)",
+        "Python (Programming Language)"
+      ],
+      "volunteerExperiences": [],
+      "headline": "Data Science & Statistics at the University of Texas at Austin",
+      "summary": "Undergraduate Student at the University of Texas at Austin, majoring in Statistics and Data Science with a certificate in Elements of Computing, and pursuing a minor in business. Has significant experiences working with multiple startups in sectors like SWE, technology, data, Generative AI, and business strategy, outreach, and development. \n\nCan be reached at sv28299@utexas.edu.",
+      "student": false,
+      "industryName": "Computer Software",
+      "industryUrn": "urn:li:fs_industry:4",
+      "geoLocationName": "Austin, Texas",
+      "geoCountryName": "United States",
+      "jobTitle": "Product Development & AI Features",
+      "companyName": "Vlogmi AI",
+      "companyPublicId": "vlogmi",
+      "companyLinkedinUrl": "https://www.linkedin.com/company/vlogmi",
+      "following": false,
+      "followable": true,
+      "followersCount": 807,
+      "connectionsCount": 500
+    }
+  ]
+}
